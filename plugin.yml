@@ -1,0 +1,13 @@
+name: HotLogger
+author: Hotshot2162
+version: 1.1.1
+main: me.chris.HotLogger.HotLoggerMain
+description: This outline of code is the template from which I build all of my other plugins.
+depend: [Vault]
+commands:
+    hl:
+        description: This command is the base command for the entire plugin.
+        usage: /<command>
+    HotLogger:
+        description: This is the same thing as using pt, except longer.
+        usage: /<command>

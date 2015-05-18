@@ -1,0 +1,6 @@
+database: hotlogger
+hostname: localhost
+port: 2162
+username: hotlogger
+password: ''
+
